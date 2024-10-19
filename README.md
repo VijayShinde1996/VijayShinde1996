@@ -36,7 +36,7 @@
 
 <!-- This is a blank line -->
 ### 📹 Watch My CVML Dashboard Video Demo...
-<p><img align="right" alt="gif" src="https://github.com/VijayShinde1996/vrs_foundations_cvml_dashboard/blob/main/Streamlit_app_demo.gif" width="1500" height="500" /></p>
+<p><img align="right" alt="gif" src="https://github.com/VijayShinde1996/vrs_foundations_cvml_dashboard/blob/main/Streamlit_app_demo.gif" width="1500" height="500" /></p><br>
 
 <!-- This is a blank line -->
 ### 🔭 Watch My Retailer Chatbot Video Demo...
