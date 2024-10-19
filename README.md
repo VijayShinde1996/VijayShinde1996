@@ -33,9 +33,12 @@
   - PHP: **0.05%**
   - Hack: **0.00%**
   - Python: **0.01%**
-### -----------------------------------------------------------------------------------------------------------------------------------### 📹 Watch My CVML Dashboard Video Demo...
+  - 
+<!-- This is a blank line -->
+### 📹 Watch My CVML Dashboard Video Demo...
 <p><img align="right" alt="gif" src="https://github.com/VijayShinde1996/vrs_foundations_cvml_dashboard/blob/main/Streamlit_app_demo.gif" width="1500" height="500" /></p>
-### -----------------------------------------------------------------------------------------------------------------------------------
+
+<!-- This is a blank line -->
 ### 🔭 Watch My Retailer Chatbot Video Demo...
 <p><img align="right" alt="gif" src="https://github.com/VijayShinde1996/Chatbot_Using_Pytorch/blob/main/Test-Input-Outputs/Chatbot_Demo.gif" width="1500" height="500" /></p>
 
