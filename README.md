@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Vijay Shinde
+# 👋 Hi there! I'm Vijay R. Shinde
 
 ### 🌟 See my Portfolio: [Access Link](https://vijayshinde1996.github.io/)
 
@@ -37,8 +37,8 @@
 <!-- This is a blank line -->
 ### 📹 Watch My CVML Dashboard Video Demo...
 <p><img align="right" alt="gif" src="https://github.com/VijayShinde1996/vrs_foundations_cvml_dashboard/blob/main/Streamlit_app_demo.gif" width="1500" height="500" /></p>
-<br><br>
-- 
+
+<p></p>
 <!-- This is a blank line -->
 ### 🔭 Watch My Retailer Chatbot Video Demo...
 <p><img align="right" alt="gif" src="https://github.com/VijayShinde1996/Chatbot_Using_Pytorch/blob/main/Test-Input-Outputs/Chatbot_Demo.gif" width="1500" height="500" /></p>
