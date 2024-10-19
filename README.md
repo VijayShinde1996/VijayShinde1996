@@ -35,7 +35,7 @@
   - Python: **0.01%**
     
  - 🔭 Take a look at my CVML Dashboard...
-- <p><img align="right" alt="gif" src="https://github.com/VijayShinde1996/vrs_foundations_cvml_dashboard/blob/main/Streamlit_app_demo.mp4" width="1500" height="320" /></p>
+- <p><img align="right" alt="video" src="https://github.com/VijayShinde1996/vrs_foundations_cvml_dashboard/blob/main/Streamlit_app_demo.mp4" width="1500" height="320" /></p>
   
 - 🔭 Take a look at my first chatbot developed for a retailer website (Demo Version), utilizing integration of NLP and DL (PyTorch)...
 <p><img align="right" alt="gif" src="https://github.com/VijayShinde1996/Chatbot_Using_Pytorch/blob/main/Test-Input-Outputs/Chatbot_Demo.gif" width="1500" height="320" /></p>
