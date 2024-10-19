@@ -19,8 +19,7 @@
   - **Generative AI**
   - **Research Papers**
 - 📫 I have worked on **40+ Data Science Projects** with end-to-end deployment. Don’t forget to visit my repositories!
-- 💬 How to reach me: [shindevijay595@gmail.com](mailto:shindevijay595@gmail.com)...
-- 🔭 Take a look at my first chatbot developed for a retailer website (Demo Version), utilizing integration of NLP and DL (PyTorch)...
+- 💬 How to reach me: [shindevijay595@gmail.com](mailto:shindevijay595@gmail.com)
 
 ### 📊 Repository Statistics (Last Updated: 19-10-2024)
 - **Total Repositories:** 24
@@ -34,5 +33,5 @@
   - PHP: **0.05%**
   - Hack: **0.00%**
   - Python: **0.01%**
-
+- 🔭 Take a look at my first chatbot developed for a retailer website (Demo Version), utilizing integration of NLP and DL (PyTorch)...
 <p><img align="right" alt="gif" src="https://github.com/VijayShinde1996/Chatbot_Using_Pytorch/blob/main/Test-Input-Outputs/Chatbot_Demo.gif" width="1500" height="320" /></p>
