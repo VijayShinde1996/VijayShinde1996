@@ -21,14 +21,14 @@
 - 📫 I have worked on **40+ Data Science Projects** with end-to-end deployment. Don’t forget to visit my repositories!
 - 💬 How to reach me: [shindevijay595@gmail.com](mailto:shindevijay595@gmail.com)
 
-### 📊 Repository Statistics (Last Updated: 19-10-2024)
-- **Total Repositories:** 24
-- **Public Repositories:** 14
-- **Private Repositories:** 10
+### 📊 Repository Statistics (Last Updated: 20th October 2024)
+- **Total Repositories:** 27
+- **Public Repositories:** 15
+- **Private Repositories:** 12
 - **Language-wise Percentage:**
-  - Jupyter Notebook: **99.58%**
+  - Jupyter Notebook: **99.57%**
   - JavaScript: **0.04%**       
-  - HTML: **0.28%**
+  - HTML: **0.29%**
   - CSS: **0.03%**
   - PHP: **0.05%**
   - Hack: **0.00%**
