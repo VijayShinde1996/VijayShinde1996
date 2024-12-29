@@ -21,18 +21,18 @@
 - 📫 I have worked on **40+ Data Science Projects** with end-to-end deployment. Don’t forget to visit my repositories!
 - 💬 How to reach me: [shindevijay595@gmail.com](mailto:shindevijay595@gmail.com)
 
-### 📊 Repository Statistics (Last Updated: 23rd December 2024)
-- **Total Repositories:** 33
-- **Public Repositories:** 21
-- **Private Repositories:** 12
+### 📊 Repository Statistics (Last Updated: 30th December 2024)
+- **Total Repositories:** 34
+- **Public Repositories:** 20
+- **Private Repositories:** 14
 - **Language-wise Percentage:**
   - Jupyter Notebook: **99.40%**
-  - JavaScript: **0.12%**       
+  - React, JavaScript: **0.13%**       
   - HTML: **0.30%**
-  - CSS: **0.06%**
+  - CSS: **0.05%**
   - PHP: **0.05%**
   - Hack: **0.00%**
-  - Python: **0.07%**
+  - Python: **0.06%**
 
 <!-- This is a blank line -->
 ### 📹 Watch My CVML Dashboard Video Demo...
