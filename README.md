@@ -22,17 +22,9 @@
 - 💬 How to reach me: [shindevijay595@gmail.com](mailto:shindevijay595@gmail.com)
 
 ### 📊 Repository Statistics (Last Updated: 30th December 2024)
-- **Total Repositories:** 34
-- **Public Repositories:** 20
+- **Total Repositories:** 39
+- **Public Repositories:** 25
 - **Private Repositories:** 14
-- **Language-wise Percentage:**
-  - Jupyter Notebook: **99.40%**
-  - React, JavaScript: **0.13%**       
-  - HTML: **0.30%**
-  - CSS: **0.05%**
-  - PHP: **0.05%**
-  - Hack: **0.00%**
-  - Python: **0.06%**
 
 <!-- This is a blank line -->
 ### 📹 Watch My CVML Dashboard Video Demo...
