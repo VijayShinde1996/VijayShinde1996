@@ -3,20 +3,23 @@
 ### 🌟 See my Portfolio: [Access Link](https://vijayshinde1996.github.io/)
 
 - 🤔 I’m working as a ---> **Data Scientist** <---
-- 🌱 **Current Focus:** Exploring Generative AI (LLMs) and Computer Vision Machine Learning (CVML)
+- 🌱 **Current Focus:** Exploring Generative AI, Data Science, GIS, Full Stack Use-cases
 - 🔭 I’m currently working on:
+  - **Generative AI**
   - **Machine Learning (ML)**
   - **Natural Language Processing (NLP)**
   - **Deep Learning (DL)** (TensorFlow/PyTorch)
   - **CVML**
+  - **Full Stack Developement**
   - **Chatbots**
   - **ArcGIS**
   - **Microsoft Power Platforms** (Power Apps, Power BI, Power Automate) Based Projects...
 - 👯 I’m looking to collaborate on:
+  - **LLMs**
   - **ML**
   - **DL**
   - **NLP**
-  - **Generative AI**
+  - **GIS**
   - **Research Papers**
 - 📫 I have worked on **40+ Data Science Projects** with end-to-end deployment. Don’t forget to visit my repositories!
 - 💬 How to reach me: [shindevijay595@gmail.com](mailto:shindevijay595@gmail.com)
