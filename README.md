@@ -8,8 +8,11 @@ I specialize in building **AI-powered applications, machine learning systems, an
 
 ### 🌐 Portfolio & AI Work
 
-🔗 **Personal Portfolio:**  
+🔗 **Personal Portfolio (Flask – Production Version):**  
 https://shindevijay595.pythonanywhere.com/
+
+🔗 **Personal Portfolio (Static – GitHub Pages):**  
+https://vijayshinde1996.github.io/
 
 🔗 **VRS AI Foundation – AI Research & Projects:**  
 https://vrsaifoundation.pythonanywhere.com/
