@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vijay R. Shinde
 
-### 🌟 See my Portfolio: [Access Link](https://vijayshinde1996.github.io/)
+### 🌟 See my Portfolio: [Access Link](https://shindevijay595.pythonanywhere.com/)
 
 - 🤔 I’m working as a ---> **Data Scientist** <---
 - 🌱 **Current Focus:** Exploring Generative AI, Data Science, GIS, Full Stack Use-cases
