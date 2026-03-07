@@ -31,33 +31,19 @@ https://vrsaifoundation.pythonanywhere.com/
 
 ### 🛠 Technical Expertise
 
-**Languages & Tools**
-- Python
-- SQL
-- Git
-
-**Machine Learning & AI**
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- Hugging Face
-- LangChain
-
-**Data & Visualization**
-- Pandas
-- NumPy
-- Power BI
-- Matplotlib / Seaborn
-
-**AI Infrastructure**
-- Vector Databases
-- RAG Systems
-- LLM Deployment
-- REST APIs
-
-**Platforms**
-- Microsoft Power Platform  
-(Power Apps, Power BI, Power Automate, Copilot Agents)
+| Category | Skills |
+|---------|-------|
+| **Languages** | Python, NodeJSSQL |
+| **Version Control** | Git, GitHub |
+| **Machine Learning & AI** | Scikit-Learn, XGBoost, TensorFlow, PyTorch |
+| **Generative AI & LLMs** | Hugging Face, LangChain, Prompt Engineering, RAG, LLM Finetuning, LLM Deployment |
+| **Data Processing** | Pandas, NumPy |
+| **Data Visualization** | Power BI, Matplotlib, Seaborn |
+| **AI Infrastructure** | Vector Databases, REST APIs, Model Deployment |
+| **Application Development** | Flask, FastAPI, Django, Streamlit, NextJS |
+| **Frontend & Mobile** | ReactJS, React Native (Android Apps), HTML, CSS, JavaScript |
+| **Cloud & Deployment** | Azure, AWS, Docker, Streamlit |
+| **Enterprise Platforms** | Microsoft Power Platform (Power Apps, Power BI, Power Automate, Copilot Agents) |
 
 ---
 
@@ -76,13 +62,13 @@ I’m open to collaborating on:
 
 ### 📊 Professional Highlights
 
-✔ Built **40+ Data Science & AI Projects**  
+✔ Built **50+ Data Science & AI Projects**  
 ✔ Developed **end-to-end ML systems with deployment**  
 ✔ Experience in **LLM applications & AI product development**
 
 ---
 
-### 📹 Project Demonstrations
+### 📹 Key Open-Sourced Project Demonstrations
 
 #### 1️⃣ CVML Application Dashboard
 <img src="https://github.com/VijayShinde1996/vrs_foundations_cvml_dashboard/blob/main/Streamlit_app_demo.gif" width="900">
