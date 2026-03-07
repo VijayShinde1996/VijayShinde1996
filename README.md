@@ -31,19 +31,21 @@ https://vrsaifoundation.pythonanywhere.com/
 
 ### 🛠 Technical Expertise
 
-| Category | Skills |
-|---------|-------|
-| **Languages** | Python, NodeJSSQL |
-| **Version Control** | Git, GitHub |
-| **Machine Learning & AI** | Scikit-Learn, XGBoost, TensorFlow, PyTorch |
-| **Generative AI & LLMs** | Hugging Face, LangChain, Prompt Engineering, RAG, LLM Finetuning, LLM Deployment |
-| **Data Processing** | Pandas, NumPy |
-| **Data Visualization** | Power BI, Matplotlib, Seaborn |
-| **AI Infrastructure** | Vector Databases, REST APIs, Model Deployment |
-| **Application Development** | Flask, FastAPI, Django, Streamlit, NextJS |
-| **Frontend & Mobile** | ReactJS, React Native (Android Apps), HTML, CSS, JavaScript |
-| **Cloud & Deployment** | Azure, AWS, Docker, Streamlit |
+| Domain | Technologies |
+|------|-------------|
+| **Data Science & AI** | Machine Learning, Deep Learning, Computer Vision (CVML), NLP, LLMs, Generative AI |
+| **Programming Languages** | Python (Flask, FastAPI), R (R Shiny), SQL |
+| **AI & ML Frameworks** | Scikit-learn, TensorFlow, PyTorch, Hugging Face, LangChain |
+| **Data Processing** | Pandas, PySpark, NumPy, SciPy |
+| **Databases** | MongoDB, Vector Databases (FAISS), SQL Databases |
+| **Full Stack Development** | React, Next.js, React Native (Android Apps), HTML, CSS, JavaScript, Figma |
+| **API Development & Testing** | REST APIs, Postman, Thunder Client, Bruno |
+| **Business Intelligence** | Power BI, Tableau |
 | **Enterprise Platforms** | Microsoft Power Platform (Power Apps, Power BI, Power Automate, Copilot Agents) |
+| **Cloud & Data Platforms** | Databricks, AWS, Azure |
+| **Deployment & DevOps** | CI/CD, GitHub Actions, Docker, Kubernetes, Heroku, Vercel, Netlify, On-Prem Servers |
+| **Geospatial & GIS** | ArcGIS Pro (Geo-referencing, Lat-Long Extraction, GeoJSON Creation, Indoor Mapping), QGIS |
+| **Engineering Design Tools** | AutoCAD, CATIA |
 
 ---
 
