@@ -22,7 +22,7 @@ https://vrsaifoundation.pythonanywhere.com/
 - **Machine Learning Systems**
 - **Deep Learning** (TensorFlow / PyTorch)
 - **Computer Vision & CVML**
-- **NVIDIA Isaac sim/lab, Edge AI, Metropolis, Riva in Products Integrations**
+- **NVIDIA Isaac sim/lab, Edge AI, Metropolis, Riva**
 - **Digital Twin Developement**
 - **Geospatial AI & GIS Analytics**
 
