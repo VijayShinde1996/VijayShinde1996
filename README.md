@@ -20,11 +20,10 @@ https://vrsaifoundation.pythonanywhere.com/
 
 - **Generative AI & LLM Applications**
 - **Machine Learning Systems**
-- **Natural Language Processing (NLP)**
 - **Deep Learning** (TensorFlow / PyTorch)
 - **Computer Vision & CVML**
-- **Retrieval Augmented Generation (RAG)**
-- **AI Powered Chatbots & Assistants**
+- **NVIDIA Isaac sim/lab, Edge AI, Metropolis, Riva in Products Integrations**
+- **Digital Twin Developement**
 - **Geospatial AI & GIS Analytics**
 
 ---
@@ -44,6 +43,7 @@ https://vrsaifoundation.pythonanywhere.com/
 | **Enterprise Platforms** | Microsoft Power Platform (Power Apps, Power BI, Power Automate, Copilot Agents) |
 | **Cloud & Data Platforms** | Databricks, AWS, Azure |
 | **Deployment & DevOps** | CI/CD, GitHub Actions, Docker, Kubernetes, Heroku, Vercel, Netlify, On-Prem Servers |
+| **NVIDIA & AI** | Isaac sim/lab, Edge AI, Metropolis, Riva |
 | **Geospatial & GIS** | ArcGIS Pro (Geo-referencing, Lat-Long Extraction, GeoJSON Creation, Indoor Mapping), QGIS |
 | **Engineering Design Tools** | AutoCAD, CATIA |
 
@@ -57,6 +57,7 @@ I’m open to collaborating on:
 - **Machine Learning Research**
 - **NLP & Deep Learning**
 - **AI-powered Products**
+- **NVIDIA Ppwered Product Integrations**
 - **GIS & Geospatial AI**
 - **Research Publications**
 
